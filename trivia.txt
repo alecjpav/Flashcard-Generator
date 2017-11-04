@@ -1,0 +1,10 @@
+{"front":"What is the last name of the author who wrote The Lord of the Rings?","back":"Tolkein","type":"basic"};
+{"front":"What is the name of the ancient Egyptian god of the Sun?","back":"Ra","type":"basic"};
+{"front":"What is the name of the galaxy that will eventually collide with the Milky Way?","back":"Andromeda","type":"basic"};
+{"front":"The word \"tsunami\" comes from what language?","back":"Japanese","type":"basic"};
+{"front":"What is the last name of the 16th President of the United States?","back":"Lincoln","type":"basic"};
+{"text":"Mahatma Gandhi was the leader of the Indian Independence Movement from British rule. ","cloze":"British","clozeDeleted":"Mahatma Gandhi was the leader of the Indian Independence Movement from _____ rule. ","type":"cloze"};
+{"text":"The Dutch settlement of New Amsterdam was later renamed to New York in 1664.","cloze":"Ansterdam","clozeDeleted":"The Dutch settlement of New _____ was later renamed to New York in 1664.","type":"cloze"};
+{"text":"President Franklin Roosevelt called the unprovoked attack on Pearl Harbor \"a date which will live in infamy\". ","cloze":"infamy","clozeDeleted":"President Franklin Roosevelt called the unprovoked attack on Pearl Harbor \"a date which will live in _____\". ","type":"cloze"};
+{"text":"In 1939, the nephew of Hitler wrote an article called \"Why I Hate My Uncle.\" He came to the U.S., served in the Navy, and settled on Long Island, NY.  ","cloze":"Hitler","clozeDeleted":"In 1939, the nephew of _____ wrote an article called \"Why I Hate My Uncle.\" He came to the U.S., served in the Navy, and settled on Long Island, NY.  ","type":"cloze"};
+{"text":"The Americas are named after the Italian explorer Amerigo Vespucci.","cloze":"Vespucci","clozeDeleted":"The Americas are named after the Italian explorer Amerigo _____.","type":"cloze"};
